@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { BrowserRouter, Routes, Route, useNavigate, useLocation, useParams, Link } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, useNavigate, useLocation, useParams } from 'react-router-dom'
 import {
   ArrowRight,
   Menu,
